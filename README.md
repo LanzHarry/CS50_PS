@@ -1,2 +1,3 @@
-# CS50_PS
-Repo to hold problem sheets for Harvard's CS50 course
+# CS50 Problem Sheets
+
+This repo holds my submissions for Harvard's free computer science courses starting with CS50x. For now my plans are to complete "Introduction to Computer Science" or CS50x, with potential for the follow up courses to be included here later on.
