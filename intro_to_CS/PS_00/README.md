@@ -1,6 +1,6 @@
-# Problem Sheet 0
+# Problem Set 0
 
-The simple target practice game I have made for problem sheet 0 can be found at:
+The simple target practice game I have made for problem set 0 can be found at:
 
 [Target Practice V1](https://scratch.mit.edu/projects/1138203127)
 
